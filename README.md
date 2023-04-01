@@ -11,6 +11,4 @@ Technologies used:
 
 . HTML
 . CSS
-. JavaScript
-
-See it live here.
+. JavaScript!
