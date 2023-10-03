@@ -13,4 +13,4 @@ Technologies used:
 . CSS
 . JavaScript
 
-See it live here: http://samuel.com/
+See it live here: 
